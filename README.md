@@ -1,4 +1,5 @@
-![Screenshot](./readmeImage/screenshot_3.png)
+![Screenshot_3](https://user-images.githubusercontent.com/66472172/171567646-f60306cb-26b4-4edd-a2ed-29426ca54dd5.png)
+
 
 # 0️⃣ GET
 
