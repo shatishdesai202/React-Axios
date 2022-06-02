@@ -243,7 +243,7 @@ function App() {
           variant="green"
           size="small"
         />
-        <Button onButtonClick={handleCustomHeader} text="Custome Header" variant="dark-blue" size="small" />
+        <Button onButtonClick={handleCustomHeader} text="Custom Header" variant="dark-blue" size="small" />
         <Button onButtonClick={handleTransform} text="Transform" variant="yellow" size="small" />
         <Button onButtonClick={handleErrorHandling} text="Error Handling" variant="red" size="small" />
         <Button onButtonClick={handleCancelRequest} text="Cancel Request [Check Console]" variant="green" size="small" />
